@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# add
+ProjectSettings
+Library
+Temp
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Roll-a-Ball.sln
