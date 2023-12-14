@@ -362,7 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# add
+# add (custom)
 ProjectSettings
 Library
 Temp
